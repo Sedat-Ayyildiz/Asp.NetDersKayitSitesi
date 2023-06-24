@@ -1,0 +1,44 @@
+C:\Users\sedat\source\repos\YazOkuluDersler\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+C:\Users\sedat\source\repos\YazOkuluDersler\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+C:\Users\sedat\source\repos\YazOkuluDersler\BusinessLogicLayer\bin\Debug\DataAccesLayer.dll
+C:\Users\sedat\source\repos\YazOkuluDersler\BusinessLogicLayer\bin\Debug\EntityLayer.dll
+C:\Users\sedat\source\repos\YazOkuluDersler\BusinessLogicLayer\bin\Debug\DataAccesLayer.pdb
+C:\Users\sedat\source\repos\YazOkuluDersler\BusinessLogicLayer\bin\Debug\EntityLayer.pdb
+C:\Users\sedat\source\repos\YazOkuluDersler\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csprojAssemblyReference.cache
+C:\Users\sedat\source\repos\YazOkuluDersler\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\sedat\source\repos\YazOkuluDersler\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CopyComplete
+C:\Users\sedat\source\repos\YazOkuluDersler\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+C:\Users\sedat\source\repos\YazOkuluDersler\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb
+C:\Users\sedat\source\repos\4-) C# WEB - PROJELERİ\1-) ASP.NET PROJELERİ\1-) Yaz Okulu Dersler Projesi(Boostrap - Entity Framework)\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+C:\Users\sedat\source\repos\4-) C# WEB - PROJELERİ\1-) ASP.NET PROJELERİ\1-) Yaz Okulu Dersler Projesi(Boostrap - Entity Framework)\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+C:\Users\sedat\source\repos\4-) C# WEB - PROJELERİ\1-) ASP.NET PROJELERİ\1-) Yaz Okulu Dersler Projesi(Boostrap - Entity Framework)\BusinessLogicLayer\bin\Debug\DataAccesLayer.dll
+C:\Users\sedat\source\repos\4-) C# WEB - PROJELERİ\1-) ASP.NET PROJELERİ\1-) Yaz Okulu Dersler Projesi(Boostrap - Entity Framework)\BusinessLogicLayer\bin\Debug\EntityLayer.dll
+C:\Users\sedat\source\repos\4-) C# WEB - PROJELERİ\1-) ASP.NET PROJELERİ\1-) Yaz Okulu Dersler Projesi(Boostrap - Entity Framework)\BusinessLogicLayer\bin\Debug\DataAccesLayer.pdb
+C:\Users\sedat\source\repos\4-) C# WEB - PROJELERİ\1-) ASP.NET PROJELERİ\1-) Yaz Okulu Dersler Projesi(Boostrap - Entity Framework)\BusinessLogicLayer\bin\Debug\EntityLayer.pdb
+C:\Users\sedat\source\repos\4-) C# WEB - PROJELERİ\1-) ASP.NET PROJELERİ\1-) Yaz Okulu Dersler Projesi(Boostrap - Entity Framework)\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csprojAssemblyReference.cache
+C:\Users\sedat\source\repos\4-) C# WEB - PROJELERİ\1-) ASP.NET PROJELERİ\1-) Yaz Okulu Dersler Projesi(Boostrap - Entity Framework)\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\sedat\source\repos\4-) C# WEB - PROJELERİ\1-) ASP.NET PROJELERİ\1-) Yaz Okulu Dersler Projesi(Boostrap - Entity Framework)\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CopyComplete
+C:\Users\sedat\source\repos\4-) C# WEB - PROJELERİ\1-) ASP.NET PROJELERİ\1-) Yaz Okulu Dersler Projesi(Boostrap - Entity Framework)\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+C:\Users\sedat\source\repos\4-) C# WEB - PROJELERİ\1-) ASP.NET PROJELERİ\1-) Yaz Okulu Dersler Projesi(Boostrap - Entity Framework)\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb
+C:\Users\SEDAT AYYILDIZ\source\repos\6.1-) C# OOP ile N-Katmanlı Mimari\1-) EntityFramework Yaz Okulu Dersler Projesi(Boostrap)\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\6.1-) C# OOP ile N-Katmanlı Mimari\1-) EntityFramework Yaz Okulu Dersler Projesi(Boostrap)\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+C:\Users\SEDAT AYYILDIZ\source\repos\6.1-) C# OOP ile N-Katmanlı Mimari\1-) EntityFramework Yaz Okulu Dersler Projesi(Boostrap)\BusinessLogicLayer\bin\Debug\DataAccesLayer.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\6.1-) C# OOP ile N-Katmanlı Mimari\1-) EntityFramework Yaz Okulu Dersler Projesi(Boostrap)\BusinessLogicLayer\bin\Debug\EntityLayer.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\6.1-) C# OOP ile N-Katmanlı Mimari\1-) EntityFramework Yaz Okulu Dersler Projesi(Boostrap)\BusinessLogicLayer\bin\Debug\DataAccesLayer.pdb
+C:\Users\SEDAT AYYILDIZ\source\repos\6.1-) C# OOP ile N-Katmanlı Mimari\1-) EntityFramework Yaz Okulu Dersler Projesi(Boostrap)\BusinessLogicLayer\bin\Debug\EntityLayer.pdb
+C:\Users\SEDAT AYYILDIZ\source\repos\6.1-) C# OOP ile N-Katmanlı Mimari\1-) EntityFramework Yaz Okulu Dersler Projesi(Boostrap)\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.AssemblyReference.cache
+C:\Users\SEDAT AYYILDIZ\source\repos\6.1-) C# OOP ile N-Katmanlı Mimari\1-) EntityFramework Yaz Okulu Dersler Projesi(Boostrap)\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\SEDAT AYYILDIZ\source\repos\6.1-) C# OOP ile N-Katmanlı Mimari\1-) EntityFramework Yaz Okulu Dersler Projesi(Boostrap)\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CopyComplete
+C:\Users\SEDAT AYYILDIZ\source\repos\6.1-) C# OOP ile N-Katmanlı Mimari\1-) EntityFramework Yaz Okulu Dersler Projesi(Boostrap)\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\6.1-) C# OOP ile N-Katmanlı Mimari\1-) EntityFramework Yaz Okulu Dersler Projesi(Boostrap)\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb
+C:\Users\SEDAT AYYILDIZ\Desktop\MvcDersKayitProjesi\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+C:\Users\SEDAT AYYILDIZ\Desktop\MvcDersKayitProjesi\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+C:\Users\SEDAT AYYILDIZ\Desktop\MvcDersKayitProjesi\BusinessLogicLayer\bin\Debug\DataAccesLayer.dll
+C:\Users\SEDAT AYYILDIZ\Desktop\MvcDersKayitProjesi\BusinessLogicLayer\bin\Debug\EntityLayer.dll
+C:\Users\SEDAT AYYILDIZ\Desktop\MvcDersKayitProjesi\BusinessLogicLayer\bin\Debug\DataAccesLayer.pdb
+C:\Users\SEDAT AYYILDIZ\Desktop\MvcDersKayitProjesi\BusinessLogicLayer\bin\Debug\EntityLayer.pdb
+C:\Users\SEDAT AYYILDIZ\Desktop\MvcDersKayitProjesi\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.AssemblyReference.cache
+C:\Users\SEDAT AYYILDIZ\Desktop\MvcDersKayitProjesi\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\SEDAT AYYILDIZ\Desktop\MvcDersKayitProjesi\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CopyComplete
+C:\Users\SEDAT AYYILDIZ\Desktop\MvcDersKayitProjesi\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+C:\Users\SEDAT AYYILDIZ\Desktop\MvcDersKayitProjesi\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb

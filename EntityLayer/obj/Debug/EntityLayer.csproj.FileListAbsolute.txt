@@ -1,0 +1,24 @@
+C:\Users\sedat\source\repos\YazOkuluDersler\EntityLayer\bin\Debug\EntityLayer.dll
+C:\Users\sedat\source\repos\YazOkuluDersler\EntityLayer\bin\Debug\EntityLayer.pdb
+C:\Users\sedat\source\repos\YazOkuluDersler\EntityLayer\obj\Debug\EntityLayer.csprojAssemblyReference.cache
+C:\Users\sedat\source\repos\YazOkuluDersler\EntityLayer\obj\Debug\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\sedat\source\repos\YazOkuluDersler\EntityLayer\obj\Debug\EntityLayer.dll
+C:\Users\sedat\source\repos\YazOkuluDersler\EntityLayer\obj\Debug\EntityLayer.pdb
+C:\Users\sedat\source\repos\4-) C# WEB - PROJELERİ\1-) ASP.NET PROJELERİ\1-) Yaz Okulu Dersler Projesi(Boostrap - Entity Framework)\EntityLayer\bin\Debug\EntityLayer.dll
+C:\Users\sedat\source\repos\4-) C# WEB - PROJELERİ\1-) ASP.NET PROJELERİ\1-) Yaz Okulu Dersler Projesi(Boostrap - Entity Framework)\EntityLayer\bin\Debug\EntityLayer.pdb
+C:\Users\sedat\source\repos\4-) C# WEB - PROJELERİ\1-) ASP.NET PROJELERİ\1-) Yaz Okulu Dersler Projesi(Boostrap - Entity Framework)\EntityLayer\obj\Debug\EntityLayer.csprojAssemblyReference.cache
+C:\Users\sedat\source\repos\4-) C# WEB - PROJELERİ\1-) ASP.NET PROJELERİ\1-) Yaz Okulu Dersler Projesi(Boostrap - Entity Framework)\EntityLayer\obj\Debug\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\sedat\source\repos\4-) C# WEB - PROJELERİ\1-) ASP.NET PROJELERİ\1-) Yaz Okulu Dersler Projesi(Boostrap - Entity Framework)\EntityLayer\obj\Debug\EntityLayer.dll
+C:\Users\sedat\source\repos\4-) C# WEB - PROJELERİ\1-) ASP.NET PROJELERİ\1-) Yaz Okulu Dersler Projesi(Boostrap - Entity Framework)\EntityLayer\obj\Debug\EntityLayer.pdb
+C:\Users\SEDAT AYYILDIZ\source\repos\6.1-) C# OOP ile N-Katmanlı Mimari\1-) EntityFramework Yaz Okulu Dersler Projesi(Boostrap)\EntityLayer\bin\Debug\EntityLayer.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\6.1-) C# OOP ile N-Katmanlı Mimari\1-) EntityFramework Yaz Okulu Dersler Projesi(Boostrap)\EntityLayer\bin\Debug\EntityLayer.pdb
+C:\Users\SEDAT AYYILDIZ\source\repos\6.1-) C# OOP ile N-Katmanlı Mimari\1-) EntityFramework Yaz Okulu Dersler Projesi(Boostrap)\EntityLayer\obj\Debug\EntityLayer.csproj.AssemblyReference.cache
+C:\Users\SEDAT AYYILDIZ\source\repos\6.1-) C# OOP ile N-Katmanlı Mimari\1-) EntityFramework Yaz Okulu Dersler Projesi(Boostrap)\EntityLayer\obj\Debug\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\SEDAT AYYILDIZ\source\repos\6.1-) C# OOP ile N-Katmanlı Mimari\1-) EntityFramework Yaz Okulu Dersler Projesi(Boostrap)\EntityLayer\obj\Debug\EntityLayer.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\6.1-) C# OOP ile N-Katmanlı Mimari\1-) EntityFramework Yaz Okulu Dersler Projesi(Boostrap)\EntityLayer\obj\Debug\EntityLayer.pdb
+C:\Users\SEDAT AYYILDIZ\Desktop\MvcDersKayitProjesi\EntityLayer\bin\Debug\EntityLayer.dll
+C:\Users\SEDAT AYYILDIZ\Desktop\MvcDersKayitProjesi\EntityLayer\bin\Debug\EntityLayer.pdb
+C:\Users\SEDAT AYYILDIZ\Desktop\MvcDersKayitProjesi\EntityLayer\obj\Debug\EntityLayer.csproj.AssemblyReference.cache
+C:\Users\SEDAT AYYILDIZ\Desktop\MvcDersKayitProjesi\EntityLayer\obj\Debug\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\SEDAT AYYILDIZ\Desktop\MvcDersKayitProjesi\EntityLayer\obj\Debug\EntityLayer.dll
+C:\Users\SEDAT AYYILDIZ\Desktop\MvcDersKayitProjesi\EntityLayer\obj\Debug\EntityLayer.pdb

@@ -1,0 +1,36 @@
+C:\Users\sedat\source\repos\YazOkuluDersler\DataAccesLayer\bin\Debug\DataAccesLayer.dll
+C:\Users\sedat\source\repos\YazOkuluDersler\DataAccesLayer\bin\Debug\DataAccesLayer.pdb
+C:\Users\sedat\source\repos\YazOkuluDersler\DataAccesLayer\bin\Debug\EntityLayer.dll
+C:\Users\sedat\source\repos\YazOkuluDersler\DataAccesLayer\bin\Debug\EntityLayer.pdb
+C:\Users\sedat\source\repos\YazOkuluDersler\DataAccesLayer\obj\Debug\DataAccesLayer.csprojAssemblyReference.cache
+C:\Users\sedat\source\repos\YazOkuluDersler\DataAccesLayer\obj\Debug\DataAccesLayer.csproj.CoreCompileInputs.cache
+C:\Users\sedat\source\repos\YazOkuluDersler\DataAccesLayer\obj\Debug\DataAccesLayer.csproj.CopyComplete
+C:\Users\sedat\source\repos\YazOkuluDersler\DataAccesLayer\obj\Debug\DataAccesLayer.dll
+C:\Users\sedat\source\repos\YazOkuluDersler\DataAccesLayer\obj\Debug\DataAccesLayer.pdb
+C:\Users\sedat\source\repos\4-) C# WEB - PROJELERİ\1-) ASP.NET PROJELERİ\1-) Yaz Okulu Dersler Projesi(Boostrap - Entity Framework)\DataAccesLayer\bin\Debug\DataAccesLayer.dll
+C:\Users\sedat\source\repos\4-) C# WEB - PROJELERİ\1-) ASP.NET PROJELERİ\1-) Yaz Okulu Dersler Projesi(Boostrap - Entity Framework)\DataAccesLayer\bin\Debug\DataAccesLayer.pdb
+C:\Users\sedat\source\repos\4-) C# WEB - PROJELERİ\1-) ASP.NET PROJELERİ\1-) Yaz Okulu Dersler Projesi(Boostrap - Entity Framework)\DataAccesLayer\bin\Debug\EntityLayer.dll
+C:\Users\sedat\source\repos\4-) C# WEB - PROJELERİ\1-) ASP.NET PROJELERİ\1-) Yaz Okulu Dersler Projesi(Boostrap - Entity Framework)\DataAccesLayer\bin\Debug\EntityLayer.pdb
+C:\Users\sedat\source\repos\4-) C# WEB - PROJELERİ\1-) ASP.NET PROJELERİ\1-) Yaz Okulu Dersler Projesi(Boostrap - Entity Framework)\DataAccesLayer\obj\Debug\DataAccesLayer.csprojAssemblyReference.cache
+C:\Users\sedat\source\repos\4-) C# WEB - PROJELERİ\1-) ASP.NET PROJELERİ\1-) Yaz Okulu Dersler Projesi(Boostrap - Entity Framework)\DataAccesLayer\obj\Debug\DataAccesLayer.csproj.CoreCompileInputs.cache
+C:\Users\sedat\source\repos\4-) C# WEB - PROJELERİ\1-) ASP.NET PROJELERİ\1-) Yaz Okulu Dersler Projesi(Boostrap - Entity Framework)\DataAccesLayer\obj\Debug\DataAccesLayer.csproj.CopyComplete
+C:\Users\sedat\source\repos\4-) C# WEB - PROJELERİ\1-) ASP.NET PROJELERİ\1-) Yaz Okulu Dersler Projesi(Boostrap - Entity Framework)\DataAccesLayer\obj\Debug\DataAccesLayer.dll
+C:\Users\sedat\source\repos\4-) C# WEB - PROJELERİ\1-) ASP.NET PROJELERİ\1-) Yaz Okulu Dersler Projesi(Boostrap - Entity Framework)\DataAccesLayer\obj\Debug\DataAccesLayer.pdb
+C:\Users\SEDAT AYYILDIZ\source\repos\6.1-) C# OOP ile N-Katmanlı Mimari\1-) EntityFramework Yaz Okulu Dersler Projesi(Boostrap)\DataAccesLayer\bin\Debug\DataAccesLayer.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\6.1-) C# OOP ile N-Katmanlı Mimari\1-) EntityFramework Yaz Okulu Dersler Projesi(Boostrap)\DataAccesLayer\bin\Debug\DataAccesLayer.pdb
+C:\Users\SEDAT AYYILDIZ\source\repos\6.1-) C# OOP ile N-Katmanlı Mimari\1-) EntityFramework Yaz Okulu Dersler Projesi(Boostrap)\DataAccesLayer\bin\Debug\EntityLayer.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\6.1-) C# OOP ile N-Katmanlı Mimari\1-) EntityFramework Yaz Okulu Dersler Projesi(Boostrap)\DataAccesLayer\bin\Debug\EntityLayer.pdb
+C:\Users\SEDAT AYYILDIZ\source\repos\6.1-) C# OOP ile N-Katmanlı Mimari\1-) EntityFramework Yaz Okulu Dersler Projesi(Boostrap)\DataAccesLayer\obj\Debug\DataAccesLayer.csproj.AssemblyReference.cache
+C:\Users\SEDAT AYYILDIZ\source\repos\6.1-) C# OOP ile N-Katmanlı Mimari\1-) EntityFramework Yaz Okulu Dersler Projesi(Boostrap)\DataAccesLayer\obj\Debug\DataAccesLayer.csproj.CoreCompileInputs.cache
+C:\Users\SEDAT AYYILDIZ\source\repos\6.1-) C# OOP ile N-Katmanlı Mimari\1-) EntityFramework Yaz Okulu Dersler Projesi(Boostrap)\DataAccesLayer\obj\Debug\DataAccesLayer.csproj.CopyComplete
+C:\Users\SEDAT AYYILDIZ\source\repos\6.1-) C# OOP ile N-Katmanlı Mimari\1-) EntityFramework Yaz Okulu Dersler Projesi(Boostrap)\DataAccesLayer\obj\Debug\DataAccesLayer.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\6.1-) C# OOP ile N-Katmanlı Mimari\1-) EntityFramework Yaz Okulu Dersler Projesi(Boostrap)\DataAccesLayer\obj\Debug\DataAccesLayer.pdb
+C:\Users\SEDAT AYYILDIZ\Desktop\MvcDersKayitProjesi\DataAccesLayer\bin\Debug\DataAccesLayer.dll
+C:\Users\SEDAT AYYILDIZ\Desktop\MvcDersKayitProjesi\DataAccesLayer\bin\Debug\DataAccesLayer.pdb
+C:\Users\SEDAT AYYILDIZ\Desktop\MvcDersKayitProjesi\DataAccesLayer\bin\Debug\EntityLayer.dll
+C:\Users\SEDAT AYYILDIZ\Desktop\MvcDersKayitProjesi\DataAccesLayer\bin\Debug\EntityLayer.pdb
+C:\Users\SEDAT AYYILDIZ\Desktop\MvcDersKayitProjesi\DataAccesLayer\obj\Debug\DataAccesLayer.csproj.AssemblyReference.cache
+C:\Users\SEDAT AYYILDIZ\Desktop\MvcDersKayitProjesi\DataAccesLayer\obj\Debug\DataAccesLayer.csproj.CoreCompileInputs.cache
+C:\Users\SEDAT AYYILDIZ\Desktop\MvcDersKayitProjesi\DataAccesLayer\obj\Debug\DataAccesLayer.csproj.CopyComplete
+C:\Users\SEDAT AYYILDIZ\Desktop\MvcDersKayitProjesi\DataAccesLayer\obj\Debug\DataAccesLayer.dll
+C:\Users\SEDAT AYYILDIZ\Desktop\MvcDersKayitProjesi\DataAccesLayer\obj\Debug\DataAccesLayer.pdb

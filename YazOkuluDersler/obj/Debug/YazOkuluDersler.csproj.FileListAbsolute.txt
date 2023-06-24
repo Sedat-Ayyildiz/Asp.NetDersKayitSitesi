@@ -1,0 +1,190 @@
+C:\Users\sedat\source\repos\YazOkuluDersler\YazOkuluDersler\bin\YazOkuluDersler.dll.config
+C:\Users\sedat\source\repos\YazOkuluDersler\YazOkuluDersler\bin\YazOkuluDersler.dll
+C:\Users\sedat\source\repos\YazOkuluDersler\YazOkuluDersler\bin\YazOkuluDersler.pdb
+C:\Users\sedat\source\repos\YazOkuluDersler\YazOkuluDersler\bin\roslyn\csc.exe
+C:\Users\sedat\source\repos\YazOkuluDersler\YazOkuluDersler\bin\roslyn\csc.exe.config
+C:\Users\sedat\source\repos\YazOkuluDersler\YazOkuluDersler\bin\roslyn\csc.rsp
+C:\Users\sedat\source\repos\YazOkuluDersler\YazOkuluDersler\bin\roslyn\csi.exe
+C:\Users\sedat\source\repos\YazOkuluDersler\YazOkuluDersler\bin\roslyn\csi.exe.config
+C:\Users\sedat\source\repos\YazOkuluDersler\YazOkuluDersler\bin\roslyn\csi.rsp
+C:\Users\sedat\source\repos\YazOkuluDersler\YazOkuluDersler\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\sedat\source\repos\YazOkuluDersler\YazOkuluDersler\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\sedat\source\repos\YazOkuluDersler\YazOkuluDersler\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\sedat\source\repos\YazOkuluDersler\YazOkuluDersler\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\sedat\source\repos\YazOkuluDersler\YazOkuluDersler\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\sedat\source\repos\YazOkuluDersler\YazOkuluDersler\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\sedat\source\repos\YazOkuluDersler\YazOkuluDersler\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\sedat\source\repos\YazOkuluDersler\YazOkuluDersler\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\sedat\source\repos\YazOkuluDersler\YazOkuluDersler\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\sedat\source\repos\YazOkuluDersler\YazOkuluDersler\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\sedat\source\repos\YazOkuluDersler\YazOkuluDersler\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\sedat\source\repos\YazOkuluDersler\YazOkuluDersler\bin\roslyn\System.AppContext.dll
+C:\Users\sedat\source\repos\YazOkuluDersler\YazOkuluDersler\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\sedat\source\repos\YazOkuluDersler\YazOkuluDersler\bin\roslyn\System.Console.dll
+C:\Users\sedat\source\repos\YazOkuluDersler\YazOkuluDersler\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\sedat\source\repos\YazOkuluDersler\YazOkuluDersler\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\sedat\source\repos\YazOkuluDersler\YazOkuluDersler\bin\roslyn\System.IO.Compression.dll
+C:\Users\sedat\source\repos\YazOkuluDersler\YazOkuluDersler\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\sedat\source\repos\YazOkuluDersler\YazOkuluDersler\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\sedat\source\repos\YazOkuluDersler\YazOkuluDersler\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\sedat\source\repos\YazOkuluDersler\YazOkuluDersler\bin\roslyn\System.IO.Pipes.dll
+C:\Users\sedat\source\repos\YazOkuluDersler\YazOkuluDersler\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\sedat\source\repos\YazOkuluDersler\YazOkuluDersler\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\sedat\source\repos\YazOkuluDersler\YazOkuluDersler\bin\roslyn\System.Security.Claims.dll
+C:\Users\sedat\source\repos\YazOkuluDersler\YazOkuluDersler\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\sedat\source\repos\YazOkuluDersler\YazOkuluDersler\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\sedat\source\repos\YazOkuluDersler\YazOkuluDersler\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\sedat\source\repos\YazOkuluDersler\YazOkuluDersler\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\sedat\source\repos\YazOkuluDersler\YazOkuluDersler\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\sedat\source\repos\YazOkuluDersler\YazOkuluDersler\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\sedat\source\repos\YazOkuluDersler\YazOkuluDersler\bin\roslyn\System.ValueTuple.dll
+C:\Users\sedat\source\repos\YazOkuluDersler\YazOkuluDersler\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\sedat\source\repos\YazOkuluDersler\YazOkuluDersler\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\sedat\source\repos\YazOkuluDersler\YazOkuluDersler\bin\roslyn\System.Xml.XPath.dll
+C:\Users\sedat\source\repos\YazOkuluDersler\YazOkuluDersler\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\sedat\source\repos\YazOkuluDersler\YazOkuluDersler\bin\roslyn\vbc.exe
+C:\Users\sedat\source\repos\YazOkuluDersler\YazOkuluDersler\bin\roslyn\vbc.exe.config
+C:\Users\sedat\source\repos\YazOkuluDersler\YazOkuluDersler\bin\roslyn\vbc.rsp
+C:\Users\sedat\source\repos\YazOkuluDersler\YazOkuluDersler\bin\roslyn\VBCSCompiler.exe
+C:\Users\sedat\source\repos\YazOkuluDersler\YazOkuluDersler\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\sedat\source\repos\YazOkuluDersler\YazOkuluDersler\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\sedat\source\repos\YazOkuluDersler\YazOkuluDersler\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\sedat\source\repos\YazOkuluDersler\YazOkuluDersler\obj\Debug\YazOkuluDersler.csprojAssemblyReference.cache
+C:\Users\sedat\source\repos\YazOkuluDersler\YazOkuluDersler\obj\Debug\YazOkuluDersler.csproj.CoreCompileInputs.cache
+C:\Users\sedat\source\repos\YazOkuluDersler\YazOkuluDersler\obj\Debug\YazOkuluDersler.csproj.CopyComplete
+C:\Users\sedat\source\repos\YazOkuluDersler\YazOkuluDersler\obj\Debug\YazOkuluDersler.dll
+C:\Users\sedat\source\repos\YazOkuluDersler\YazOkuluDersler\obj\Debug\YazOkuluDersler.pdb
+C:\Users\sedat\source\repos\YazOkuluDersler\YazOkuluDersler\bin\BusinessLogicLayer.dll
+C:\Users\sedat\source\repos\YazOkuluDersler\YazOkuluDersler\bin\DataAccesLayer.dll
+C:\Users\sedat\source\repos\YazOkuluDersler\YazOkuluDersler\bin\EntityLayer.dll
+C:\Users\sedat\source\repos\YazOkuluDersler\YazOkuluDersler\bin\BusinessLogicLayer.pdb
+C:\Users\sedat\source\repos\YazOkuluDersler\YazOkuluDersler\bin\DataAccesLayer.pdb
+C:\Users\sedat\source\repos\YazOkuluDersler\YazOkuluDersler\bin\EntityLayer.pdb
+C:\Users\sedat\source\repos\4-) C# WEB - PROJELERİ\1-) ASP.NET PROJELERİ\1-) Yaz Okulu Dersler Projesi(Boostrap - Entity Framework)\YazOkuluDersler\obj\Debug\YazOkuluDersler.dll
+C:\Users\sedat\source\repos\4-) C# WEB - PROJELERİ\1-) ASP.NET PROJELERİ\1-) Yaz Okulu Dersler Projesi(Boostrap - Entity Framework)\YazOkuluDersler\obj\Debug\YazOkuluDersler.pdb
+C:\Users\sedat\source\repos\5.1-) Yaz Okulu Dersler Projesi(Boostrap - Entity Framework)\YazOkuluDersler\bin\YazOkuluDersler.dll.config
+C:\Users\sedat\source\repos\5.1-) Yaz Okulu Dersler Projesi(Boostrap - Entity Framework)\YazOkuluDersler\bin\YazOkuluDersler.dll
+C:\Users\sedat\source\repos\5.1-) Yaz Okulu Dersler Projesi(Boostrap - Entity Framework)\YazOkuluDersler\bin\YazOkuluDersler.pdb
+C:\Users\sedat\source\repos\5.1-) Yaz Okulu Dersler Projesi(Boostrap - Entity Framework)\YazOkuluDersler\bin\roslyn\csc.exe
+C:\Users\sedat\source\repos\5.1-) Yaz Okulu Dersler Projesi(Boostrap - Entity Framework)\YazOkuluDersler\bin\roslyn\csc.exe.config
+C:\Users\sedat\source\repos\5.1-) Yaz Okulu Dersler Projesi(Boostrap - Entity Framework)\YazOkuluDersler\bin\roslyn\csc.rsp
+C:\Users\sedat\source\repos\5.1-) Yaz Okulu Dersler Projesi(Boostrap - Entity Framework)\YazOkuluDersler\bin\roslyn\csi.exe
+C:\Users\sedat\source\repos\5.1-) Yaz Okulu Dersler Projesi(Boostrap - Entity Framework)\YazOkuluDersler\bin\roslyn\csi.exe.config
+C:\Users\sedat\source\repos\5.1-) Yaz Okulu Dersler Projesi(Boostrap - Entity Framework)\YazOkuluDersler\bin\roslyn\csi.rsp
+C:\Users\sedat\source\repos\5.1-) Yaz Okulu Dersler Projesi(Boostrap - Entity Framework)\YazOkuluDersler\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\sedat\source\repos\5.1-) Yaz Okulu Dersler Projesi(Boostrap - Entity Framework)\YazOkuluDersler\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\sedat\source\repos\5.1-) Yaz Okulu Dersler Projesi(Boostrap - Entity Framework)\YazOkuluDersler\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\sedat\source\repos\5.1-) Yaz Okulu Dersler Projesi(Boostrap - Entity Framework)\YazOkuluDersler\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\sedat\source\repos\5.1-) Yaz Okulu Dersler Projesi(Boostrap - Entity Framework)\YazOkuluDersler\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\sedat\source\repos\5.1-) Yaz Okulu Dersler Projesi(Boostrap - Entity Framework)\YazOkuluDersler\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\sedat\source\repos\5.1-) Yaz Okulu Dersler Projesi(Boostrap - Entity Framework)\YazOkuluDersler\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\sedat\source\repos\5.1-) Yaz Okulu Dersler Projesi(Boostrap - Entity Framework)\YazOkuluDersler\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\sedat\source\repos\5.1-) Yaz Okulu Dersler Projesi(Boostrap - Entity Framework)\YazOkuluDersler\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\sedat\source\repos\5.1-) Yaz Okulu Dersler Projesi(Boostrap - Entity Framework)\YazOkuluDersler\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\sedat\source\repos\5.1-) Yaz Okulu Dersler Projesi(Boostrap - Entity Framework)\YazOkuluDersler\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\sedat\source\repos\5.1-) Yaz Okulu Dersler Projesi(Boostrap - Entity Framework)\YazOkuluDersler\bin\roslyn\System.AppContext.dll
+C:\Users\sedat\source\repos\5.1-) Yaz Okulu Dersler Projesi(Boostrap - Entity Framework)\YazOkuluDersler\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\sedat\source\repos\5.1-) Yaz Okulu Dersler Projesi(Boostrap - Entity Framework)\YazOkuluDersler\bin\roslyn\System.Console.dll
+C:\Users\sedat\source\repos\5.1-) Yaz Okulu Dersler Projesi(Boostrap - Entity Framework)\YazOkuluDersler\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\sedat\source\repos\5.1-) Yaz Okulu Dersler Projesi(Boostrap - Entity Framework)\YazOkuluDersler\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\sedat\source\repos\5.1-) Yaz Okulu Dersler Projesi(Boostrap - Entity Framework)\YazOkuluDersler\bin\roslyn\System.IO.Compression.dll
+C:\Users\sedat\source\repos\5.1-) Yaz Okulu Dersler Projesi(Boostrap - Entity Framework)\YazOkuluDersler\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\sedat\source\repos\5.1-) Yaz Okulu Dersler Projesi(Boostrap - Entity Framework)\YazOkuluDersler\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\sedat\source\repos\5.1-) Yaz Okulu Dersler Projesi(Boostrap - Entity Framework)\YazOkuluDersler\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\sedat\source\repos\5.1-) Yaz Okulu Dersler Projesi(Boostrap - Entity Framework)\YazOkuluDersler\bin\roslyn\System.IO.Pipes.dll
+C:\Users\sedat\source\repos\5.1-) Yaz Okulu Dersler Projesi(Boostrap - Entity Framework)\YazOkuluDersler\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\sedat\source\repos\5.1-) Yaz Okulu Dersler Projesi(Boostrap - Entity Framework)\YazOkuluDersler\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\sedat\source\repos\5.1-) Yaz Okulu Dersler Projesi(Boostrap - Entity Framework)\YazOkuluDersler\bin\roslyn\System.Security.Claims.dll
+C:\Users\sedat\source\repos\5.1-) Yaz Okulu Dersler Projesi(Boostrap - Entity Framework)\YazOkuluDersler\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\sedat\source\repos\5.1-) Yaz Okulu Dersler Projesi(Boostrap - Entity Framework)\YazOkuluDersler\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\sedat\source\repos\5.1-) Yaz Okulu Dersler Projesi(Boostrap - Entity Framework)\YazOkuluDersler\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\sedat\source\repos\5.1-) Yaz Okulu Dersler Projesi(Boostrap - Entity Framework)\YazOkuluDersler\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\sedat\source\repos\5.1-) Yaz Okulu Dersler Projesi(Boostrap - Entity Framework)\YazOkuluDersler\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\sedat\source\repos\5.1-) Yaz Okulu Dersler Projesi(Boostrap - Entity Framework)\YazOkuluDersler\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\sedat\source\repos\5.1-) Yaz Okulu Dersler Projesi(Boostrap - Entity Framework)\YazOkuluDersler\bin\roslyn\System.ValueTuple.dll
+C:\Users\sedat\source\repos\5.1-) Yaz Okulu Dersler Projesi(Boostrap - Entity Framework)\YazOkuluDersler\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\sedat\source\repos\5.1-) Yaz Okulu Dersler Projesi(Boostrap - Entity Framework)\YazOkuluDersler\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\sedat\source\repos\5.1-) Yaz Okulu Dersler Projesi(Boostrap - Entity Framework)\YazOkuluDersler\bin\roslyn\System.Xml.XPath.dll
+C:\Users\sedat\source\repos\5.1-) Yaz Okulu Dersler Projesi(Boostrap - Entity Framework)\YazOkuluDersler\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\sedat\source\repos\5.1-) Yaz Okulu Dersler Projesi(Boostrap - Entity Framework)\YazOkuluDersler\bin\roslyn\vbc.exe
+C:\Users\sedat\source\repos\5.1-) Yaz Okulu Dersler Projesi(Boostrap - Entity Framework)\YazOkuluDersler\bin\roslyn\vbc.exe.config
+C:\Users\sedat\source\repos\5.1-) Yaz Okulu Dersler Projesi(Boostrap - Entity Framework)\YazOkuluDersler\bin\roslyn\vbc.rsp
+C:\Users\sedat\source\repos\5.1-) Yaz Okulu Dersler Projesi(Boostrap - Entity Framework)\YazOkuluDersler\bin\roslyn\VBCSCompiler.exe
+C:\Users\sedat\source\repos\5.1-) Yaz Okulu Dersler Projesi(Boostrap - Entity Framework)\YazOkuluDersler\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\sedat\source\repos\5.1-) Yaz Okulu Dersler Projesi(Boostrap - Entity Framework)\YazOkuluDersler\bin\BusinessLogicLayer.dll
+C:\Users\sedat\source\repos\5.1-) Yaz Okulu Dersler Projesi(Boostrap - Entity Framework)\YazOkuluDersler\bin\DataAccesLayer.dll
+C:\Users\sedat\source\repos\5.1-) Yaz Okulu Dersler Projesi(Boostrap - Entity Framework)\YazOkuluDersler\bin\EntityLayer.dll
+C:\Users\sedat\source\repos\5.1-) Yaz Okulu Dersler Projesi(Boostrap - Entity Framework)\YazOkuluDersler\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\sedat\source\repos\5.1-) Yaz Okulu Dersler Projesi(Boostrap - Entity Framework)\YazOkuluDersler\bin\BusinessLogicLayer.pdb
+C:\Users\sedat\source\repos\5.1-) Yaz Okulu Dersler Projesi(Boostrap - Entity Framework)\YazOkuluDersler\bin\DataAccesLayer.pdb
+C:\Users\sedat\source\repos\5.1-) Yaz Okulu Dersler Projesi(Boostrap - Entity Framework)\YazOkuluDersler\bin\EntityLayer.pdb
+C:\Users\sedat\source\repos\5.1-) Yaz Okulu Dersler Projesi(Boostrap - Entity Framework)\YazOkuluDersler\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\sedat\source\repos\5.1-) Yaz Okulu Dersler Projesi(Boostrap - Entity Framework)\YazOkuluDersler\obj\Debug\YazOkuluDersler.csprojAssemblyReference.cache
+C:\Users\sedat\source\repos\5.1-) Yaz Okulu Dersler Projesi(Boostrap - Entity Framework)\YazOkuluDersler\obj\Debug\YazOkuluDersler.csproj.CoreCompileInputs.cache
+C:\Users\sedat\source\repos\5.1-) Yaz Okulu Dersler Projesi(Boostrap - Entity Framework)\YazOkuluDersler\obj\Debug\YazOkuluDersler.csproj.CopyComplete
+C:\Users\sedat\source\repos\5.1-) Yaz Okulu Dersler Projesi(Boostrap - Entity Framework)\YazOkuluDersler\obj\Debug\YazOkuluDersler.dll
+C:\Users\sedat\source\repos\5.1-) Yaz Okulu Dersler Projesi(Boostrap - Entity Framework)\YazOkuluDersler\obj\Debug\YazOkuluDersler.pdb
+C:\Users\SEDAT AYYILDIZ\source\repos\6.1-) C# OOP ile N-Katmanlı Mimari\1-) EntityFramework Yaz Okulu Dersler Projesi(Boostrap)\YazOkuluDersler\obj\Debug\YazOkuluDersler.dll
+C:\Users\SEDAT AYYILDIZ\source\repos\6.1-) C# OOP ile N-Katmanlı Mimari\1-) EntityFramework Yaz Okulu Dersler Projesi(Boostrap)\YazOkuluDersler\obj\Debug\YazOkuluDersler.pdb
+C:\Users\SEDAT AYYILDIZ\Desktop\MvcDersKayitProjesi\YazOkuluDersler\bin\YazOkuluDersler.dll.config
+C:\Users\SEDAT AYYILDIZ\Desktop\MvcDersKayitProjesi\YazOkuluDersler\bin\YazOkuluDersler.dll
+C:\Users\SEDAT AYYILDIZ\Desktop\MvcDersKayitProjesi\YazOkuluDersler\bin\YazOkuluDersler.pdb
+C:\Users\SEDAT AYYILDIZ\Desktop\MvcDersKayitProjesi\YazOkuluDersler\bin\roslyn\csc.exe
+C:\Users\SEDAT AYYILDIZ\Desktop\MvcDersKayitProjesi\YazOkuluDersler\bin\roslyn\csc.exe.config
+C:\Users\SEDAT AYYILDIZ\Desktop\MvcDersKayitProjesi\YazOkuluDersler\bin\roslyn\csc.rsp
+C:\Users\SEDAT AYYILDIZ\Desktop\MvcDersKayitProjesi\YazOkuluDersler\bin\roslyn\csi.exe
+C:\Users\SEDAT AYYILDIZ\Desktop\MvcDersKayitProjesi\YazOkuluDersler\bin\roslyn\csi.exe.config
+C:\Users\SEDAT AYYILDIZ\Desktop\MvcDersKayitProjesi\YazOkuluDersler\bin\roslyn\csi.rsp
+C:\Users\SEDAT AYYILDIZ\Desktop\MvcDersKayitProjesi\YazOkuluDersler\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\SEDAT AYYILDIZ\Desktop\MvcDersKayitProjesi\YazOkuluDersler\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\SEDAT AYYILDIZ\Desktop\MvcDersKayitProjesi\YazOkuluDersler\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\SEDAT AYYILDIZ\Desktop\MvcDersKayitProjesi\YazOkuluDersler\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\SEDAT AYYILDIZ\Desktop\MvcDersKayitProjesi\YazOkuluDersler\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\SEDAT AYYILDIZ\Desktop\MvcDersKayitProjesi\YazOkuluDersler\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\SEDAT AYYILDIZ\Desktop\MvcDersKayitProjesi\YazOkuluDersler\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\SEDAT AYYILDIZ\Desktop\MvcDersKayitProjesi\YazOkuluDersler\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\SEDAT AYYILDIZ\Desktop\MvcDersKayitProjesi\YazOkuluDersler\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\SEDAT AYYILDIZ\Desktop\MvcDersKayitProjesi\YazOkuluDersler\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\SEDAT AYYILDIZ\Desktop\MvcDersKayitProjesi\YazOkuluDersler\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\SEDAT AYYILDIZ\Desktop\MvcDersKayitProjesi\YazOkuluDersler\bin\roslyn\System.AppContext.dll
+C:\Users\SEDAT AYYILDIZ\Desktop\MvcDersKayitProjesi\YazOkuluDersler\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\SEDAT AYYILDIZ\Desktop\MvcDersKayitProjesi\YazOkuluDersler\bin\roslyn\System.Console.dll
+C:\Users\SEDAT AYYILDIZ\Desktop\MvcDersKayitProjesi\YazOkuluDersler\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\SEDAT AYYILDIZ\Desktop\MvcDersKayitProjesi\YazOkuluDersler\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\SEDAT AYYILDIZ\Desktop\MvcDersKayitProjesi\YazOkuluDersler\bin\roslyn\System.IO.Compression.dll
+C:\Users\SEDAT AYYILDIZ\Desktop\MvcDersKayitProjesi\YazOkuluDersler\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\SEDAT AYYILDIZ\Desktop\MvcDersKayitProjesi\YazOkuluDersler\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\SEDAT AYYILDIZ\Desktop\MvcDersKayitProjesi\YazOkuluDersler\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\SEDAT AYYILDIZ\Desktop\MvcDersKayitProjesi\YazOkuluDersler\bin\roslyn\System.IO.Pipes.dll
+C:\Users\SEDAT AYYILDIZ\Desktop\MvcDersKayitProjesi\YazOkuluDersler\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\SEDAT AYYILDIZ\Desktop\MvcDersKayitProjesi\YazOkuluDersler\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\SEDAT AYYILDIZ\Desktop\MvcDersKayitProjesi\YazOkuluDersler\bin\roslyn\System.Security.Claims.dll
+C:\Users\SEDAT AYYILDIZ\Desktop\MvcDersKayitProjesi\YazOkuluDersler\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\SEDAT AYYILDIZ\Desktop\MvcDersKayitProjesi\YazOkuluDersler\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\SEDAT AYYILDIZ\Desktop\MvcDersKayitProjesi\YazOkuluDersler\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\SEDAT AYYILDIZ\Desktop\MvcDersKayitProjesi\YazOkuluDersler\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\SEDAT AYYILDIZ\Desktop\MvcDersKayitProjesi\YazOkuluDersler\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\SEDAT AYYILDIZ\Desktop\MvcDersKayitProjesi\YazOkuluDersler\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\SEDAT AYYILDIZ\Desktop\MvcDersKayitProjesi\YazOkuluDersler\bin\roslyn\System.ValueTuple.dll
+C:\Users\SEDAT AYYILDIZ\Desktop\MvcDersKayitProjesi\YazOkuluDersler\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\SEDAT AYYILDIZ\Desktop\MvcDersKayitProjesi\YazOkuluDersler\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\SEDAT AYYILDIZ\Desktop\MvcDersKayitProjesi\YazOkuluDersler\bin\roslyn\System.Xml.XPath.dll
+C:\Users\SEDAT AYYILDIZ\Desktop\MvcDersKayitProjesi\YazOkuluDersler\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\SEDAT AYYILDIZ\Desktop\MvcDersKayitProjesi\YazOkuluDersler\bin\roslyn\vbc.exe
+C:\Users\SEDAT AYYILDIZ\Desktop\MvcDersKayitProjesi\YazOkuluDersler\bin\roslyn\vbc.exe.config
+C:\Users\SEDAT AYYILDIZ\Desktop\MvcDersKayitProjesi\YazOkuluDersler\bin\roslyn\vbc.rsp
+C:\Users\SEDAT AYYILDIZ\Desktop\MvcDersKayitProjesi\YazOkuluDersler\bin\roslyn\VBCSCompiler.exe
+C:\Users\SEDAT AYYILDIZ\Desktop\MvcDersKayitProjesi\YazOkuluDersler\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\SEDAT AYYILDIZ\Desktop\MvcDersKayitProjesi\YazOkuluDersler\bin\BusinessLogicLayer.dll
+C:\Users\SEDAT AYYILDIZ\Desktop\MvcDersKayitProjesi\YazOkuluDersler\bin\DataAccesLayer.dll
+C:\Users\SEDAT AYYILDIZ\Desktop\MvcDersKayitProjesi\YazOkuluDersler\bin\EntityLayer.dll
+C:\Users\SEDAT AYYILDIZ\Desktop\MvcDersKayitProjesi\YazOkuluDersler\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\SEDAT AYYILDIZ\Desktop\MvcDersKayitProjesi\YazOkuluDersler\bin\BusinessLogicLayer.pdb
+C:\Users\SEDAT AYYILDIZ\Desktop\MvcDersKayitProjesi\YazOkuluDersler\bin\DataAccesLayer.pdb
+C:\Users\SEDAT AYYILDIZ\Desktop\MvcDersKayitProjesi\YazOkuluDersler\bin\EntityLayer.pdb
+C:\Users\SEDAT AYYILDIZ\Desktop\MvcDersKayitProjesi\YazOkuluDersler\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\SEDAT AYYILDIZ\Desktop\MvcDersKayitProjesi\YazOkuluDersler\obj\Debug\YazOkuluDersler.csproj.AssemblyReference.cache
+C:\Users\SEDAT AYYILDIZ\Desktop\MvcDersKayitProjesi\YazOkuluDersler\obj\Debug\YazOkuluDersler.csproj.CoreCompileInputs.cache
+C:\Users\SEDAT AYYILDIZ\Desktop\MvcDersKayitProjesi\YazOkuluDersler\obj\Debug\YazOkuluDersler.csproj.CopyComplete
+C:\Users\SEDAT AYYILDIZ\Desktop\MvcDersKayitProjesi\YazOkuluDersler\obj\Debug\YazOkuluDersler.dll
+C:\Users\SEDAT AYYILDIZ\Desktop\MvcDersKayitProjesi\YazOkuluDersler\obj\Debug\YazOkuluDersler.pdb
